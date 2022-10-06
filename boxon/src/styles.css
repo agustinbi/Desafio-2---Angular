@@ -1,0 +1,23 @@
+/* You can add global styles to this file, and also import other style files */
+* {
+  background-color: greenyellow;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;  
+  
+}
+
+h1 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: cornflowerblue;
+}
+
+img{
+  border-style: groove;
+  list-style: none;
+}
+
+.app{
+  color: darkturquoise;
+  font-weight: 300;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
